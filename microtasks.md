@@ -21,7 +21,7 @@ Currently, D&I badging program uses png images with four badging statuses. Image
 ### `Q 1` What parts of the Journal of Open Source Software Documentation could be helpful in improving the D&I Badging Project?
 
 
-**Review checklist and guidelines**
+#### **Review checklist and guidelines**
 
 
 JOSS has a comprehensive review checklist that is used by a reviewer to verify what the project contains or does not contain, comparing that with what is required for an acceptable JOSS submission. This list also contains some things that the reviewer needs to confirm for themselves (if they have read the JOSS code of conduct and conflict of interest policy). 
@@ -34,7 +34,7 @@ The D&I badging submission process can adopt from this in the following manner:
 * Creating different checklists for events and projects
 
 
-**Roles in JOSS**
+#### **Roles in JOSS**
 
 
 JOSS has comprehensive guidelines for its paper review process. There are mainly four kinds of people involved:
@@ -50,7 +50,7 @@ There are defined roles in JOSS submission process. D&I badging project could be
 * Major software contributors/ Event Organisers - The people who are submitting their event/project into the badging program. The reviewers will give them feedback on how to improve upon their submission
 
 
-**Review process implementation**
+#### **Review process implementation**
 
 
 JOSS review process consists of [PRE-REVIEW] and [REVIEW] phases after the paper submission. Whedon, a GitHub bot, helps out extensively with the review process. Here's how that happens:
